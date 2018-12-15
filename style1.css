@@ -1,0 +1,62 @@
+body
+{
+ background-image:url("guitar.jpg");
+ background-repeat:no-repeat;
+}
+
+h4
+{
+	color:white;
+	letter-spacing:2px;
+	font-size:28px;
+	font-family:Descendants;
+	font-style:italic;
+}
+
+.container
+{
+	position:relative;
+	top:200px;
+}
+
+/*
+form
+{
+	padding:100px 500px;
+	margin:50px;
+	position:relative;
+	bottom:230px;
+}
+
+.form-group
+{
+	max-width:500px;
+	
+}
+
+.name
+{
+	padding:150px 500px;
+	margin:50px;
+}
+
+.name h2 
+{
+	color:white;
+	font-family:"Georgia","Arial";
+	font-style:italic;
+	font-size:30px;
+	letter-spacing:1px;
+	text-decoration:underline;
+	word-spacing:1px;
+	 text-decoration-line: overline underline;
+    text-decoration-style: wavy;
+}
+
+.user
+{
+	padding:100px 400px;
+	position:relative;
+	bottom:132px;
+	left:30px;
+}*/
